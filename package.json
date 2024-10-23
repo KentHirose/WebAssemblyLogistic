@@ -5,11 +5,11 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "build:wasm && build:js",
     "build:wasm": "cd wasm && wasm-pack build --target web --release",
     "build:js": "tsc -b && vite build",
     "lint": "eslint .",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "build": "build:wasm && build:js"
   },
   "dependencies": {
     "@emotion/react": "^11.13.3",
