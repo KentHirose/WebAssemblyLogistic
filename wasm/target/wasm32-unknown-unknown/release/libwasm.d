@@ -1,0 +1,1 @@
+/Users/hirosekento/Lecture/Senmon3/WasmRustTest/vite-react-rust-wasm-project/wasm/target/wasm32-unknown-unknown/release/libwasm.rlib: /Users/hirosekento/Lecture/Senmon3/WasmRustTest/vite-react-rust-wasm-project/wasm/src/lib.rs
